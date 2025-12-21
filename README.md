@@ -12,9 +12,7 @@ Stable releases can be downloaded here
 
 https://mvnrepository.com/artifact/com.ghgande/j2mod
 
-Snapshot releases can be downloaded here 
-
-https://oss.sonatype.org/content/repositories/snapshots/com/ghgande/j2mod/
+Snapshot releases are no longer browsable from Sonatype but they are there if you need them
 
 # Known Issues
 
