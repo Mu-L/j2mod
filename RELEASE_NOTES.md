@@ -258,3 +258,4 @@ _(**NOT BACKWARDS COMPATIBLE**)_
 
 ## Version 3.2.3
 * Failed to read response! CRC Error in received frame #153 - thanks thomas-hutterer-tik. (#153)
+* Expose disableRs485ModeControl from jSerialComm v2.11.4 thanks da-Kai (#160)
