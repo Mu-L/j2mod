@@ -255,3 +255,6 @@ _(**NOT BACKWARDS COMPATIBLE**)_
 ## Version 3.2.2
 * Add support for providing an optional java.net proxy for. (#151)
 * Added support for testing serial comms on Mac/Linux
+
+## Version 3.2.3
+* Failed to read response! CRC Error in received frame #153 - thanks thomas-hutterer-tik. (#153)
